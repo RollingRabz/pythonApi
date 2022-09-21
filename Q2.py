@@ -12,3 +12,4 @@ x = m-1
         
 result = word[:x:1] + word[x::-1]
 print(result)
+###tese
